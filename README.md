@@ -5,9 +5,7 @@
 - Studying Cybersecurity at BYU
 
 ### Languages and Tools:  
-<img src="./svg/python.svg" />
-<img src="./svg/c++.svg"/>
-<img src="./svg/js.svg">
+<img src="./svg/python.svg" /> <img src="./svg/c++.svg"/> <img src="./svg/js.svg">
 
 ---
 
