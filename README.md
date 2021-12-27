@@ -2,9 +2,9 @@
 
 
 ## A little about Me!
-- Studying Cybersecurity at BYU
-- Currently working as an Security Engineer
-- I love anything Bethesda....except '76
+- 🏫 Studying Cybersecurity at BYU
+- 🤓 Currently working as an Security Engineer
+- 🎮 I love anything Bethesda....except '76
 - ✔️ Goals for 2022:
   - Do more personal projects
   - Complete the Jr. Pentester course on TryHackMe
