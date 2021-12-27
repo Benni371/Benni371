@@ -28,7 +28,7 @@
 ---
 ### Connect with me:
 
-<a href="https://linkedin.com/in/koy-bennion-4b6318204"><img align="left" alt="Koy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>Koy Bennion
+<a href="https://linkedin.com/in/koy-bennion-4b6318204"><img align="left" alt="Koy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br />
 
