@@ -20,7 +20,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Early Hacker Beginnings](https://benni371.github.io/jekyll/update/2021/12/22/welcome-to-jekyll.html)
+- [Advent of Cyber 2021](https://benni371.github.io/blog/aoc2021)
+- [Early Hacker Beginnings](https://benni371.github.io/blog/firstpost)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://benni371.github.io/blog/)
